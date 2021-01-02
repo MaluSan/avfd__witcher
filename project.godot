@@ -15,7 +15,8 @@ _global_script_class_icons={
 
 [application]
 
-config/name="godotTest_01"
+config/name="Witches"
+run/main_scene="res://Battle.tscn"
 config/icon="res://icon.png"
 
 [rendering]
